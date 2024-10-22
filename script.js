@@ -1,5 +1,5 @@
-// 🦁 Importe cette fonction
-import { prompt } from "./helper.js";
+// 🦁 Import cette function
+// import { prompt } from "./helper.js";
 
 console.log("NODE-MAILER ™️");
 

@@ -28,7 +28,6 @@ Enter recipient your email : jeanmichel@gmail.com
 Enter your object : Rdv à 15h
 Enter your message : On avait rendez-vous à 15h, où es-tu ! C'est urgent.
 
-
 The mail is sending...
 To user :  jeanmichel@gmail.com
 Object :  Rdv à 15h
